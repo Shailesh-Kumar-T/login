@@ -2,5 +2,7 @@
 This is a login and register page 
 you can login or register in these ,Let's see a live preview below 
 
-![image](https://user-images.githubusercontent.com/95214966/227729899-a1fbb3d3-09ff-4122-baaf-f0711982ae6d.png)
+![Screenshot (131)](https://user-images.githubusercontent.com/95214966/227730015-7d0a6263-f9ff-41a5-99e7-89cd258ee924.png)
+
+
 just go on and see !.
